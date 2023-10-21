@@ -679,8 +679,19 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 * [Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam) - Awesome resources, tools, and other shiny things for cybersecurity blue teams.
 * [Android Exploits](https://github.com/sundaysec/Android-Exploits) - Guide on Android Exploitation and Hacks
 
+  ## contact-info
+
+Feel free to contact me to discuss any issues, questions, or comments.
+
+* Email: [sp3130016@gmail.com]:[(mailto:sp3130016@gmail.com)].
+* Phone No.:- +91-8767296910
+* GitHub: [Sanket-HP]:[(https://github.com/Sanket-HP)].
+* LinkedIn: [Sanket More-Patil]:[(https://www.linkedin.com/in/sanket-patil-3149a9255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)].
+
 # License
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+* Copy write 2023 Sanket Sarjerao More-Patil
